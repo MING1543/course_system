@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.env
+
+# pytest
+.pytest_cache/
+.coverage
+htmlcov/
+*.cover
+
+# 项目产生的数据
+course.db
+*.log
+.DS_Store
